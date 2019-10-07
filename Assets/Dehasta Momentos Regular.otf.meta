@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2ccd50ab825432442b9f7c1b649bcadf
+timeCreated: 1519063482
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dehasta Momentos
+  fontNames:
+  - Dehasta Momentos
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 04b260191559a2148a5d90c7c7f1eb6e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

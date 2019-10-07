@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Games Plus Jam (Feb 18 Sun 2018 12am)", "Games Plus Jam (Feb 18 Sun 2018 12am).csproj", "{35A2FCC5-EB1F-3C44-7548-09B16EBE913A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Games Plus Jam (Feb 18 Sun 2018 12am).Editor", "Games Plus Jam (Feb 18 Sun 2018 12am).Editor.csproj", "{9CFC9511-7D55-6597-45AC-2160DAC20DF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A2FCC5-EB1F-3C44-7548-09B16EBE913A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A2FCC5-EB1F-3C44-7548-09B16EBE913A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A2FCC5-EB1F-3C44-7548-09B16EBE913A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A2FCC5-EB1F-3C44-7548-09B16EBE913A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFC9511-7D55-6597-45AC-2160DAC20DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFC9511-7D55-6597-45AC-2160DAC20DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFC9511-7D55-6597-45AC-2160DAC20DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFC9511-7D55-6597-45AC-2160DAC20DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

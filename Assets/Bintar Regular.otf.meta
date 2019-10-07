@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d846e06520a32b140a9b454c101dc4ee
+timeCreated: 1519063483
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bintar
+  fontNames:
+  - Bintar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b1aa50cdb5691074c92e3ec6c2f6917b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
